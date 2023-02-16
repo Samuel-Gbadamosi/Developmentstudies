@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    /* position: sticky; */
+    width: 100%;
+    background-color: white;
+    height: 500px;
+    right: 0;
+    left: 0;
+    background-position: center;
+    background-image: url('./jumbo.jpg');
+    background-size: cover;
+}
+
+header .overlay{
+    /* position: absolute; */
+    height: 100%;
+    background: #2c3e50;
+    opacity: 0.9;
+
+}
+
+.bgyu{
+    color: white;
+}
+
+
+.myowntext li{
+    color: white;
+    font-weight: 600;
+}
+
+.com{
+    height: 40px;
+    width: 130px;
+    border: 1px solid #ff4545;
+    font-size: 12px;
+    background-color: #ff4545;
+    color: white;
+    position: relative;
+    bottom: 5px;
+}
+
+.juhu h2{
+    color: white;
+    font-size: 60px;
+    font-weight: 800;
+
+}
+
+.lm{
+    height: 40px;
+    background-color: #ff4545;
+    width: 200px;
+    border: 1px solid #ff4545;
+    border-radius: 20px;
+    color: white;
+
+
+}
+
+.lock{
+    background-color: #FFFFFF;
+}
+
+.lock small{
+    color: #a6abb0;
+    font-weight: 800;
+}
+
+.lock h4{
+    color: black;
+    font-weight: 800;
+}
+
+.lock p{
+    font-weight: 300;
+}
+
+.jerry {
+    font-size: 17px;
+    font-weight: 800;
+    color: #F06161;
+}
+
+.myicon{
+    font-size: 30px;
+    color: #928c8cb0;
+}
+
+.myicon ul li{
+    font-weight: 300;
+}
+
+.sectOne{
+    height: 500px;
+    background-color: #F1FAFB;
+}
+
+.mydi{
+    height: 100px;
+    background-color: white;
+}
+
+.mydi h5{
+    color: grey;
+    padding-top: 10px;
+}
+.mydi p{
+    font-size: 13px;
+    width: 91%;
+    font-weight: 500;
+}
+
+.grade{
+    /* height: 500px; */
+    background-color: white;
+}
+.ci{
+    margin-left: 57px;
+}
+
+.ci h4{
+    font-size: 15px;
+}
+
+.ci p{
+    font-size: 15px;
+    width: 60%;
+}
